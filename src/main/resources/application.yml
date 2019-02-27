@@ -1,0 +1,6 @@
+server:
+  port: 9901
+  version: 1.0.0-build
+  undertow:
+    io-threads: 4
+    worker-threads: 32

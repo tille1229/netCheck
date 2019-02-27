@@ -1,0 +1,15 @@
+[ip]
+addr=35.220.153.225,35.221.165.123
+noticeMailAccount=306905573@qq.com
+
+[35.220.153.225]
+total=100
+size=512
+sendMail=true
+minTimeOutCount=10
+
+[35.221.165.123]
+total=100
+size=512
+sendMail=true
+minTimeOutCount=10
